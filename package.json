@@ -21,6 +21,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
+    "@types/node": "18.15.11",
     "@typescript-eslint/eslint-plugin": "5.57.0",
     "cspell": "6.31.1",
     "eslint": "8.37.0",
@@ -33,6 +34,8 @@
     "husky": "8.0.0",
     "lint-staged": "13.2.0",
     "prettier": "2.8.7",
+    "ts-node": "10.9.1",
+    "tslib": "2.5.0",
     "typescript": "5.0.2"
   },
   "volta": {
