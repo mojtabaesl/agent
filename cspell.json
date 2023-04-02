@@ -7,5 +7,5 @@
     ".prettierrc.json",
     "./tsconfig.json"
   ],
-  "words": ["Mojtaba", "Eslami"]
+  "words": ["Mojtaba", "Eslami", "nodemon"]
 }
