@@ -15,7 +15,7 @@
     "url": "https://github.com/mojtabaesl/agent/issues"
   },
   "scripts": {
-    "dev": "",
+    "dev": "nodemon",
     "lint": "eslint --ext .ts --fix ./src",
     "upgrade": "npx npm-check -u",
     "prepare": "husky install"
